@@ -1,5 +1,5 @@
 ###R for biologists
-##Bea & Rao, 19/11/2024
+##Bea & Irina, 14/02/2025
 
 #### LOAD and PREPARE data ####
 # We will load and subset migration and morphology data as in session 1
